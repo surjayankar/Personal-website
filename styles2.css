@@ -1,0 +1,180 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+h1 {
+    font-size: 90px;
+    color: #85E6C5;
+
+    margin: 0px;
+    font-family: 'Sacramento', cursive;
+}
+
+h4{
+    font-family: 'Merriweather', serif;
+    color: #85E6C5;
+
+}
+
+
+h3 {
+    font-family: 'Merriweather', serif;
+
+}
+hr{
+    width:30%;
+    text-decoration-style: dotted;
+}
+
+.name {
+    background-color: #C8FFE0;
+    padding-top: 100px;
+}
+
+.profile{
+    background-color: #85E6C5;
+    height: 600px;
+    padding-top: 50px;
+    
+    
+    color: #C8FFE0;
+    
+    line-height: 2;
+    
+
+}
+.intro{
+    width: 30%;
+    margin: auto;
+   
+ 
+}
+.skill-text{
+    width: 30%;
+    margin: auto;
+}
+.profile-pic{
+    border-radius: 50%;
+    height:300px;
+    text-align:centre;
+    
+    
+
+}
+.skill-pic{
+    border-radius: 50%;
+    text-align:centre;
+    
+    
+
+}
+.skills{
+    height: 600px;
+    background-color: #C8FFE0;
+    padding-top: 50px;
+    text-align: center;
+    
+    margin: 100px auto 100 auto;
+    
+    
+    
+    color: #33BBC5;
+    line-height: 2;
+
+}
+.contact-me{
+    height: 300px;
+    background-color: #85E6C5;
+    padding-top: 50px;
+    
+    
+    margin: 0px;
+    color: #C8FFE0;
+}
+.bottom-container{
+    height: 80px;
+    background-color: #C8FFE0;
+    padding-top: 50px;
+    
+    color: #33BBC5;
+    line-height: 2;
+}
+
+.top-cloud {
+    height: 60px;
+    width: 150px;
+    right: 300px;
+    top: 50px;
+    position: absolute;
+
+}
+
+.bottom-cloud {
+    height: 60px;
+    width: 150px;
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.mountain {
+    height: 400px;
+    width: 400px;
+    padding-bottom: 100px;
+
+}
+
+
+
+.stud {
+    text-decoration: underline;
+}
+.contact{
+    position: absolute;
+    top: 2450px;
+    right: 530px;
+}
+hr{
+    border: dotted #33BBC5 6px;
+    width: 30%;
+    border-bottom: 0px;
+    height: 0px;
+    
+}
+a{
+    color: #33BBC5;
+    font-family: 'Merriweather', serif;
+    margin: 10px 20px;
+}
+a:hover{
+    color: #1c0a7693;
+}
+.btn {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3cb0fd);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3cb0fd);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3cb0fd);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3cb0fd);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3cb0fd);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #b2ded2;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #34cbd9;
+    background-image: -webkit-linear-gradient(top, #34cbd9, #34cbd9);
+    background-image: -moz-linear-gradient(top, #34cbd9, #34cbd9);
+    background-image: -ms-linear-gradient(top, #34cbd9, #34cbd9);
+    background-image: -o-linear-gradient(top, #34cbd9, #34cbd9);
+    background-image: linear-gradient(to bottom, #34cbd9, #34cbd9);
+    text-decoration: none;
+  }
